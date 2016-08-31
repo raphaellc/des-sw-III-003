@@ -1,5 +1,11 @@
 ## eGov
 [![Build Status](https://travis-ci.org/des-sw-III-003/des-sw-III-003.svg?branch=master)](https://travis-ci.org/des-sw-III-003/des-sw-III-003)
+[![Coverage Status](https://coveralls.io/repos/github/des-sw-III-003/des-sw-III-003/badge.svg?branch=master)](https://coveralls.io/github/des-sw-III-003/des-sw-III-003?branch=master)
+
+Production Instance - https://des-sw-iii-003.herokuapp.com/
+
+
+
 
 
 
